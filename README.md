@@ -10,3 +10,5 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/myaddow"><img src="https://github-readme-stats.vercel.app/api?username=myaddow&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ef4444&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="myaddow's GitHub stats" /></a>
+
+<a href="https://github.com/myaddow" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myaddow&langs_count=10&title_color=14b8a6&text_color=ef4444&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
